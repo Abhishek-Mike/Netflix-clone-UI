@@ -13,7 +13,7 @@ const firebaseConfig = {
 
   //initialize firebase app with firebase config, pass config object store in firebase APP
 const firebaseApp = firebase.initializeApp(firebaseConfig);
-const db = firebaseApp.firestore();   //access firestore db instance
+const db = firebaseApp.firestore;   //access firestore db instance
 const auth = firebase.auth();
 
 export { auth };
