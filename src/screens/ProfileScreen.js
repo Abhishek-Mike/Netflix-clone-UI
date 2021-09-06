@@ -11,6 +11,7 @@ function ProfileScreen() {
     <div className="profileScreen">
       <Nav />
       <div className="profileScreen__body">
+          <h1>Edit Profile</h1>
         <div className="profileScreen__info">
           <img
             src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/1bdc9a33850498.56ba69ac2ba5b.png"
@@ -19,8 +20,10 @@ function ProfileScreen() {
           <div className="profileScreen__details">
             <h2>{user.email}</h2>
             <div className="profileScreen__plans">
+                <h3> Plans </h3>
+                <p></p>
               <button 
-                onClick= {() => auth.signOut}
+                onClick= {() => auth.signOut()}
                 className="profileScreen__signOut">Sign Out
               </button>
             </div>
