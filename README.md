@@ -1,5 +1,7 @@
 <h1>Netflix Clone with Payment integeration </h1>
 A Netflix clone built using [link to React!](https://reactjs.org/),[Redux](https://redux.js.org/) and [Stripe Payments](https://stripe.com)
+
+
 [link to Google!](http://google.com)
 
 Homepage
