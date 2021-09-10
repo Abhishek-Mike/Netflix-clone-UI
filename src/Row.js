@@ -34,7 +34,7 @@ function Row({ title, fetchUrl, isLargeRow = false }) {
 
   const handleClick = (movie) => {
     if (trailerUrl) {
-      setTrailerUrl(" "); //if trailer is already open, it will hide/close video if u click it
+      setTrailerUrl(""); //if trailer is already open, it will hide/close video if u click it
     } else {
       movieTrailer(movie?.title || "")
         .then((url) => {
@@ -42,7 +42,7 @@ function Row({ title, fetchUrl, isLargeRow = false }) {
                                 //v=XtMThy8QKqU
           const urlParams = new URLSearchParams(new URL(url).search);
           //urlParams.get('v'); in this example url above
-          setTrailerUrl(urlParams.get('v'));
+          setTrailerUrl(urlParams.get("v"));
         })
         .catch((error) => {
           alert('Temporarily unavailable');
