@@ -17,7 +17,7 @@ https://netflix-clone-70f59.web.app
     After the payment is done, you will see if you click on the avatar icon on the top right corner, it will indicate the plan you have chosen
 
 [Google](http://google.com)
-
+[Stripe](http://stripe.com)
 
 <h2> APIs used </h2>
   [Stripe](https://stripe.com)
