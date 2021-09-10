@@ -16,12 +16,12 @@ https://netflix-clone-70f59.web.app
     After all details are entered click "Subcribe" and wait for the payment to finish
     After the payment is done, you will see if you click on the avatar icon on the top right corner, it will indicate the plan you have chosen
 
-[Google!](http://google.com)
+[Google](http://google.com)
 
 
 <h2> APIs used </h2>
-  [Stripe Payments!](https://stripe.com)
-  [TMDB!](https://www.themoviedb.org/)
+  [Stripe] (https://stripe.com)
+  [TMDB] (https://www.themoviedb.org/)
   
 Homepage
 ![HomePage](https://user-images.githubusercontent.com/71821348/132841490-fd5a5991-4a17-4644-b2a1-bf72378f6dcc.png)
