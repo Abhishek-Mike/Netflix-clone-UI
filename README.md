@@ -1,3 +1,4 @@
+<h1>Netflix Redux Clone</h1>
 [Link to Google](https://www.google.com)
 
 Homepage
