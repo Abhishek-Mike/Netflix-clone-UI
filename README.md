@@ -1,5 +1,5 @@
 <h1>Netflix Clone with Payment integeration </h1>
-A Netflix clone built using [React!](https://reactjs.org), [Redux!](https://redux.js.org) and [Stripe Payments!](https://stripe.com)
+A Netflix clone built using [React](https://reactjs.org), [Redux](https://redux.js.org) and [Stripe Payments](https://stripe.com)
 
 
 <h2> Live demo </h2>
@@ -20,8 +20,8 @@ https://netflix-clone-70f59.web.app
 
 
 <h2> APIs used </h2>
-  [Stripe] (https://stripe.com)
-  [TMDB] (https://www.themoviedb.org/)
+  [Stripe](https://stripe.com)
+  [TMDB](https://www.themoviedb.org/)
   
 Homepage
 ![HomePage](https://user-images.githubusercontent.com/71821348/132841490-fd5a5991-4a17-4644-b2a1-bf72378f6dcc.png)
