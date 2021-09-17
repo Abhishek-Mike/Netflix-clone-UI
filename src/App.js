@@ -12,8 +12,8 @@ function App() {
   const user = useSelector(selectUser); // give user back
   const dispatch = useDispatch();
 
-  //to bring persistance of data of user to login, logged in hu pta rehna chaiye page ko
-  //on-mount
+  //to bring data persistance of user to login, logged in hu pta rehna chaiye page ko
+  //This is ...........on-mount
   useEffect(() => {
     //listens to any state change,store into local memory/cookie
     //onAuthStateChanged is listener that checks if user is logged in or not
